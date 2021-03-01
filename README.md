@@ -1,6 +1,6 @@
-# Laravel 8 + Vue 2 + Vuetify
+# Laravel 8 + Vue 2 + Vuetify 2
 
-> Web Full-Stack Integration   
+> Full-Stack Web Template
 
 ## Build Setup
 
